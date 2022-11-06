@@ -14,7 +14,9 @@ export default defineConfig({
       name: '九千定制管理系统',
       short_name: '九千定制',
       description: '九千定制家具厂管理系统',
+      display: 'fullscreen',
       theme_color: '#ffffff',
+      background_color: '#ffffff',
       icons: [
         {
           src: 'android-chrome-192x192.png',
