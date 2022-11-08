@@ -1,0 +1,1 @@
+import{d as t,o,b as r,w as e,u as a,e as s,f as n,g as l,h as c}from"./index.f0c45015.js";const d=t({__name:"F7",setup(f){return(u,_)=>(o(),r(a(c),null,{default:e(()=>[s(a(l),null,{default:e(()=>[n(" Hello Framework7 ")]),_:1})]),_:1}))}});export{d as default};
